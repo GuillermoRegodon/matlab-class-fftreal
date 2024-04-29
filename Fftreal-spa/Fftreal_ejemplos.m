@@ -1,4 +1,5 @@
 % Autor: Guillermo Fernando Regodón Harkness
+%https://github.com/GuillermoRegodon/matlab-class-fftreal.git
 
 %% Creamos un array con una señal cuadrada de ejemplo
 x = [zeros(1, 1000), ones(1, 2000), zeros(1,1000)];

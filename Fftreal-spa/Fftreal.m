@@ -1,4 +1,5 @@
 % Autor: Guillermo Fernando Regodón Harkness
+% Github: https://github.com/GuillermoRegodon/matlab-class-fftreal.git
 
 % Clase de Matlab para crear objetos que permiten estudiar el efecto de la
 % distorsión lineal y no lineal en un sistema de transmisión. Está
